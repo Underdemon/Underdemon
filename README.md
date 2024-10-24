@@ -1,4 +1,12 @@
+<!--
 ## Hi there 👋
+<div align="center">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=underdemon&theme=rose_pine&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=underdemon&show_icons=true&theme=rose_pine&count_private=true) 
+
+</div>
+-->
 
 <!--
 **Underdemon/Underdemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
